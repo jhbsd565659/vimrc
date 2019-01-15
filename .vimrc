@@ -41,6 +41,7 @@ set listchars=tab:\|\ ,trail:.
 syntax on
 nnoremap gr gT
 nnoremap tt :<C-u>tabnew<cr>
+nnoremap <ESC><ESC> :nohl<CR>
 
 "=========================================================================
 function! s:SID_PREFIX()
