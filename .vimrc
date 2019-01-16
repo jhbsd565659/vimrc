@@ -1,7 +1,7 @@
 colorscheme dracula
 set statusline=[%n]\ %t%m%r%h%w\ (%l,%v)\ [%P/%L]\ %=%{&fileencoding}%y
 set shortmess+=I
-set laststatus=2 
+set laststatus=2
 set fileformats=unix,dos,mac
 set fileformat=unix
 set autoread
